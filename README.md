@@ -1,5 +1,7 @@
 # ecommerce-architecture
-互联网电商开发资料，包括业务分析，技术实现，系统架构，新零售
+
+互联网电商业务，技术与架构
+
 
 ### 一、零售业务
 
@@ -40,18 +42,24 @@ https://processon.com/view/5a95abffe4b046e1c332d7d5#outline
 
 ### 七、开源项目
 
+#### 电商营销
+
 https://github.com/DuHouAn/MCard
 https://github.com/gupei2015/marketing-coupon/tree/master/marketing-service/src/main/java/lk/project/marketing/mapper
-
 https://github.com/caisl/activity-platform
 https://github.com/Notelzg/mall/tree/dev/coupon-service
 https://github.com/Notelzg/mall/tree/dev
-
 https://github.com/xubinux/xbin-store
-
 https://github.com/DuHouAn/MCard
 
+
+#### 规则引擎
 https://github.com/roirrow/rule
+https://github.com/tpiekarski/coupon-engine
+https://github.com/lgminh/PromotionRuleShoppingCart
+https://github.com/13shivam/promotionengine
+https://github.com/Anuradha-Khadanga123/PromotionRuleEngine
+https://github.com/YornSopheaktra/promotionAggregator
 
 
 ### 八、新零售理论
