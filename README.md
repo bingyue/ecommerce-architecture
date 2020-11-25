@@ -16,10 +16,22 @@
 [优惠券和促销的设计规则](https://www.pmcaff.com/article/index/522932721808512ps)
 [从技术架构看生鲜电商的核心技术能力](http://www.woshipm.com/pd/4109404.html) 
 
-#### 2.2 营销中台
+#### 2.2 订单交易
+
+#### 2.3 营销中台
+
+[京东营销中心文档](https://helpcenter.jd.com/vender/issue/767-5447.html)
+
+#### 2.4 风控策略
+
+#### 2.5 平台治理
+
+[如何构建电商平台的规则体系](http://www.woshipm.com/pd/592151.html)
 
 
 ### 三、技术实践
+
+#### 3.1 购物车设计
 
 
 ### 四、架构分享
@@ -60,7 +72,7 @@ https://github.com/lgminh/PromotionRuleShoppingCart
 https://github.com/13shivam/promotionengine
 https://github.com/Anuradha-Khadanga123/PromotionRuleEngine
 https://github.com/YornSopheaktra/promotionAggregator
-
+https://github.com/monpro/distributed-coupon-system
 
 ### 八、新零售理论
 
@@ -69,4 +81,6 @@ https://github.com/YornSopheaktra/promotionAggregator
 
 《电商产品经理兵法：基于SaaS的电商系统设计与实践》
 作者：程亮出版社：电子工业出版社
+
+
 
