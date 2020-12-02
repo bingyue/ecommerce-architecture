@@ -2,7 +2,6 @@
 
 互联网电商业务，技术与架构
 
-
 ### 一、零售业务
 
 电商的本质是零售。
@@ -13,14 +12,17 @@
 #### 2.1 商品系统
 
 [掌握电商后台设计，这一篇足矣](https://kuaibao.qq.com/s/20191216A0DBIC00)
-[优惠券和促销的设计规则](https://www.pmcaff.com/article/index/522932721808512ps)
 [从技术架构看生鲜电商的核心技术能力](http://www.woshipm.com/pd/4109404.html) 
+[苏宁易购11.11：商品详情系统架构设计](https://www.infoq.cn/article/suning-product-details-system-architecture-design)
 
 #### 2.2 订单交易
+
+
 
 #### 2.3 营销中台
 
 [京东营销中心文档](https://helpcenter.jd.com/vender/issue/767-5447.html)
+[优惠券和促销的设计规则](https://www.pmcaff.com/article/index/522932721808512ps)
 
 #### 2.4 风控策略
 
@@ -28,10 +30,12 @@
 
 [如何构建电商平台的规则体系](http://www.woshipm.com/pd/592151.html)
 
-
 ### 三、技术实践
 
 #### 3.1 购物车设计
+
+[入门电商购物车设计](https://zhuanlan.zhihu.com/p/62228448)
+[关于购物车设计的总结](http://www.woshipm.com/pd/852178.html)
 
 
 ### 四、架构分享
@@ -50,11 +54,12 @@
 ### 六、思维导图
 
 https://processon.com/view/5a95abffe4b046e1c332d7d5#map
+
 https://processon.com/view/5a95abffe4b046e1c332d7d5#outline
 
 ### 七、开源项目
 
-#### 电商营销
+#### 优惠券
 
 https://github.com/DuHouAn/MCard
 https://github.com/gupei2015/marketing-coupon/tree/master/marketing-service/src/main/java/lk/project/marketing/mapper
@@ -63,7 +68,6 @@ https://github.com/Notelzg/mall/tree/dev/coupon-service
 https://github.com/Notelzg/mall/tree/dev
 https://github.com/xubinux/xbin-store
 https://github.com/DuHouAn/MCard
-
 
 #### 规则引擎
 https://github.com/roirrow/rule
@@ -74,13 +78,14 @@ https://github.com/Anuradha-Khadanga123/PromotionRuleEngine
 https://github.com/YornSopheaktra/promotionAggregator
 https://github.com/monpro/distributed-coupon-system
 
+
 ### 八、新零售理论
 
 
 ### 九、推荐图书
 
-《电商产品经理兵法：基于SaaS的电商系统设计与实践》
-作者：程亮出版社：电子工业出版社
+[《淘宝技术这十年》](https://book.douban.com/subject/24335672/)
 
+[《淘宝十年产品事》](https://book.douban.com/subject/25732463/)
 
-
+[《电商产品经理兵法：基于SaaS的电商系统设计与实践》](https://book.douban.com/subject/34872156/)
