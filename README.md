@@ -79,6 +79,14 @@ https://github.com/YornSopheaktra/promotionAggregator
 https://github.com/monpro/distributed-coupon-system
 
 
+#### 延迟队列
+
+https://github.com/xuqinghua91/awesome-delay-queue
+https://github.com/bingoohuang/delayqueue
+https://github.com/smallFive55/delayMessage
+https://github.com/biezhi/redis-dqueue
+
+
 ### 八、新零售理论
 
 
