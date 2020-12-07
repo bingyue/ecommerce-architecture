@@ -79,29 +79,42 @@ https://processon.com/view/5a95abffe4b046e1c332d7d5#outline
 #### 优惠券
 
 https://github.com/DuHouAn/MCard
-https://github.com/gupei2015/marketing-coupon/tree/master/marketing-service/src/main/java/lk/project/marketing/mapper
+
+https://github.com/gupei2015/marketing-coupon/
+
 https://github.com/caisl/activity-platform
+
 https://github.com/Notelzg/mall/tree/dev/coupon-service
+
 https://github.com/Notelzg/mall/tree/dev
+
 https://github.com/xubinux/xbin-store
-https://github.com/DuHouAn/MCard
 
 #### 规则引擎
 
 https://github.com/roirrow/rule
+
 https://github.com/tpiekarski/coupon-engine
+
 https://github.com/lgminh/PromotionRuleShoppingCart
+
 https://github.com/13shivam/promotionengine
+
 https://github.com/Anuradha-Khadanga123/PromotionRuleEngine
+
 https://github.com/YornSopheaktra/promotionAggregator
+
 https://github.com/monpro/distributed-coupon-system
 
 
 #### 延迟队列
 
 https://github.com/xuqinghua91/awesome-delay-queue
+
 https://github.com/bingoohuang/delayqueue
+
 https://github.com/smallFive55/delayMessage
+
 https://github.com/biezhi/redis-dqueue
 
 
