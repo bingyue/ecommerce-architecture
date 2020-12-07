@@ -17,7 +17,7 @@
 
 #### 2.2 订单交易
 
-
+[电商ERP后台OMS模块设计](https://www.mdeditor.tw/pl/2e1U)
 
 #### 2.3 营销中台
 
@@ -26,9 +26,27 @@
 
 #### 2.4 风控策略
 
-#### 2.5 平台治理
+#### 2.5 售后体系
+
+
+[售后的设计（退换货)](https://www.cnblogs.com/gossip/p/5067186.html)
+
+[生鲜售后系统的退款架构设计与代码分享](https://www.cnblogs.com/jurendage/p/11988481.html) 
+
+[电商技术解密之售后退货](http://www.woshipm.com/pd/532982.html)
+
+[电商技术解密之售后退货](http://www.woshipm.com/pd/532982.html)
+
+[自营和平台型电商产品的售后流程设计](http://www.woshipm.com/pd/1807519.html)
+
+[关于电商售后（退货、退款、换货）的相关流程](https://blog.csdn.net/JACKO_CHAN/article/details/80266606)
+
+
+#### 2.6 平台治理
 
 [如何构建电商平台的规则体系](http://www.woshipm.com/pd/592151.html)
+
+
 
 ### 三、技术实践
 
@@ -36,7 +54,6 @@
 
 [入门电商购物车设计](https://zhuanlan.zhihu.com/p/62228448)
 [关于购物车设计的总结](http://www.woshipm.com/pd/852178.html)
-
 
 ### 四、架构分享
 
@@ -70,6 +87,7 @@ https://github.com/xubinux/xbin-store
 https://github.com/DuHouAn/MCard
 
 #### 规则引擎
+
 https://github.com/roirrow/rule
 https://github.com/tpiekarski/coupon-engine
 https://github.com/lgminh/PromotionRuleShoppingCart
