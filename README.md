@@ -1,10 +1,19 @@
 # ecommerce-architecture
 
-互联网电商业务，技术与架构
+大型互联网电商平台业务，技术与架构，包括平台+内容型电商，
+代表包括淘宝、京东、快手，内容涵盖电商系统建设的各个维度，按照业务域方式进行拆分。
 
-### 一、零售业务
+![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/ec9e77d8-19b5-434c-bd90-6fbd22456b3f)
+
+
+![屏幕截图 2024-07-21 103859](https://github.com/user-attachments/assets/c9bde2cf-6878-42cb-867b-7124139c3005)
+![屏幕截图 2024-07-21 103946](https://github.com/user-attachments/assets/e32fb9b5-ad67-45ee-8b34-fb7ac6bf102a)
+
+
+### 一、概览
 
 电商的本质是零售。
+
 
 
 ### 二、业务分析
